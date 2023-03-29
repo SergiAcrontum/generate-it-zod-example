@@ -1,3 +1,7 @@
+# How to run
+
+`cd fstr && npm i && npm start`
+
 # FST-R example repo to deprecate generate-it
 
 ## High level goal
